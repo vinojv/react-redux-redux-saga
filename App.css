@@ -1,0 +1,6 @@
+ul {
+    width: 199px;
+    min-height: 130px;
+    /* background: aqua; */
+    border: 1px solid rgba(0, 0, 0, 0.21);
+}
